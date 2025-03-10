@@ -2,8 +2,8 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/512f2856-fd5e-4801-ba8d-17b1450b597c
-
+**URL**: [https://lovable.dev/projects/512f2856-fd5e-4801-ba8d-17b1450b597c
+](https://preview--climate-sensor-monitor.lovable.app/)
 
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
