@@ -1,14 +1,10 @@
-# Welcome to KVT  project
+# Welcome to KVT-10
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/512f2856-fd5e-4801-ba8d-17b1450b597c
 
-## How can I edit this code?
 
-
-
-**Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
